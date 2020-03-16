@@ -1,0 +1,12 @@
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.csprojAssemblyReference.cache
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.MainForm.resources
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.Properties.Resources.resources
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.UserRegistFrm.resources
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.csproj.GenerateResource.cache
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.csproj.CoreCompileInputs.cache
+E:\C#\ADO.NET\UserDemo\bin\Debug\UserDemo.exe.config
+E:\C#\ADO.NET\UserDemo\bin\Debug\UserDemo.exe
+E:\C#\ADO.NET\UserDemo\bin\Debug\UserDemo.pdb
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.exe
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.pdb
+E:\C#\ADO.NET\UserDemo\obj\Debug\UserDemo.UserLoginFrm.resources

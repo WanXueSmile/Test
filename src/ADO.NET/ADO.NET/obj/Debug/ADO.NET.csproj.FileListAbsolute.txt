@@ -1,0 +1,9 @@
+E:\C#\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+E:\C#\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+E:\C#\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.cache
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+E:\C#\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
